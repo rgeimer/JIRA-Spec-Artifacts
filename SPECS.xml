@@ -49141,6 +49141,8 @@ defaultWorkgroup="ph">-->
                   url="http://hl7.org/fhir/us/davinci-drug-formulary">
       <version code="current"
                url="http://build.fhir.org/ig/HL7/davinci-pdex-formulary"/>
+      <version code="3.0.0-ballot"
+               url="http://hl7.org/fhir/us/davinci-drug-formulary/3.0.0-ballot"/>
       <version code="2.1.0" url="http://hl7.org/fhir/us/davinci-drug-formulary/STU2.1"/>
       <version code="2.0.1"
                url="http://hl7.org/fhir/us/davinci-drug-formulary/STU2.0.1"/>
